@@ -1,0 +1,17 @@
+{
+    "name": "annahl/library-hello-sederhana",
+    "description": "Membuat library say hello sederhana",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Annahl Muhammad",
+            "email": "annahl@gmail.com"
+        }
+    ],
+    "autoload": {
+        "source\\" : "src/"
+    },
+    "require": {
+        "php" : ">=8.0.0"
+    }
+}
