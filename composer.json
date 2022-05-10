@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "source\\" : "src/"
+        "source\\belajar\\" : "src/"
     },
     "require": {
         "php" : ">=8.0.0"

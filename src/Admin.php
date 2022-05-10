@@ -1,6 +1,6 @@
 <?php 
 
-namespace source{
+namespace source\belajar{
 
     class Admin{
         private string $adminName;
