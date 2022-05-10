@@ -1,6 +1,6 @@
 <?php 
 
-namespace source{
+namespace Data{
 
     class Admin{
         private string $adminName;
